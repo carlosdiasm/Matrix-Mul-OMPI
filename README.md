@@ -5,7 +5,7 @@ Este projeto implementa a multiplicação de matrizes em blocos, utilizando a bi
 Antes de começar, você precisará dos seguintes pacotes instalados:
 
 - Python 3.x: Certifique-se de ter o Python instalado em seu sistema.
-- MPI (Message Passing Interface): Um ambiente MPI como OpenMPI ou MPICH deve estar instalado. (Utilizei https://learn.microsoft.com/pt-br/message-passing-interface/microsoft-mpi, no windows 10)
+- MPI (Message Passing Interface): Um ambiente MPI como OpenMPI ou MPICH deve estar instalado. Para este trabalho foi utilizado o [MPI da microsoft](https://learn.microsoft.com/pt-br/message-passing-interface/microsoft-mpi), no windows 10.
 - mpi4py: A biblioteca Python para MPI.
 
 ## Partes do trabalho
