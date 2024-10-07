@@ -35,7 +35,7 @@ Para executar o código, você precisará utilizar o comando *mpiexec*. Este com
 
 Exemplo de execução com 4 processos:
 ```bash
-mpiexec -n 4 'Parte 3.py'
+mpiexec -n 4 python 'Parte 3.py'
 ```
 
 #### Output
